@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nc7o1CLF9WIgdpK7HqavYha3/PrNHZv+PJRlNtJQ9Cg3KPz5BUFjUzIdrI76wk1JQzM1/e+pXb1ciOxCWQnBg==",
+  "success": true,
+  "projectFilePath": "D:\\Jonni\\Proyectos\\Indecon\\BiceIndicadores.Api\\BusinesObjects\\Bice.BusinesObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
